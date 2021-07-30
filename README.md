@@ -14,9 +14,9 @@
 
 # IoT for Beginners - A Curriculum
 
-Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre-and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment, and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
-The projects cover the journey of food from farm to table. This includes farming, logistics, manufacturing, retail and consumer - all popular industry areas for IoT devices.
+The projects cover the journey of food from farm to table. This includes farming, logistics, manufacturing, retail, and consumer - all popular industry areas for IoT devices.
 
 ![A road map for the course showing 24 lessons covering intro, farming, transport, processing, retail and cooking](sketchnotes/Roadmap.jpg)
 
@@ -34,7 +34,7 @@ Meet the team!
 
 > **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md).
 
-> **Students**, to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture and completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
+> **Students**, to use this curriculum on your own, fork the entire repo and complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture and completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however, that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends and go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/users/jimbobbennett/collections/ke2ehd351jopwr?WT.mc_id=academic-17441-jabenn).
 
 For a video overview of this course, check out this video:
 
@@ -44,17 +44,17 @@ For a video overview of this course, check out this video:
 
 ## Pedagogy
 
-We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a plant monitoring and watering system, a vehicle tracker, a smart factory setup to track and check food, and a voice-controlled cooking timer, and will have learned the basics of the Internet of Things including how to write device code, connect to the cloud, analyze telemetry and run AI on the edge.
+We have chosen two pedagogical tenets while building this curriculum: ensuring that it is project-based and that it includes frequent quizzes. By the end of this series, students will have built a plant monitoring and watering system, a vehicle tracker, a smart factory set-up to track and check food, and a voice-controlled cooking timer, and will have learned the basics of the Internet of Things including how to write device code, connect to the cloud, analyze telemetry and run AI on the edge.
 
-By ensuring that the content aligns with projects, the process is made more engaging for students and retention of concepts will be augmented.
+By ensuring that the content aligns with projects, the process is made more engaging for students, and retention of concepts will be augmented.
 
-In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12 week cycle.
+In addition, a low-stakes quiz before a class sets the intention of the student towards learning a topic, while a second quiz after class ensures further retention. This curriculum was designed to be flexible and fun and can be taken in whole or in part. The projects start small and become increasingly complex by the end of the 12-week cycle.
 
-Each project is be based around real-world hardware available to students and hobbyists. Each project looks into the specific project domain, providing relevant background knowledge. To be a successful developer it helps to understand the domain in which you are solving problems, providing this background knowledge allows students to think about their IoT solutions and learnings in the context of the kind of real-world problem that they might be asked to solve as an IoT developer. Students learn the 'why' of the solutions they are building, and get an appreciation of the end user.
+Each project is be based on real-world hardware available to students and hobbyists. Each project looks into the specific project domain, providing relevant background knowledge. To be a successful developer it helps to understand the domain in which you are solving problems, providing this background knowledge allows students to think about their IoT solutions and learnings in the context of the kind of real-world problem that they might be asked to solve as an IoT developer. Students learn the 'why' of the solutions they are building and get an appreciation of the end-user.
 
 ## Hardware
 
-We have two choices of IoT hardware to use for the projects depending on personal preference, programming language knowledge or preferences, learning goals and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware, or want to learn more before committing to a purchase. You can read more and find a 'shopping list' on the [hardware page](./hardware.md), including links to buy complete kits from our friends at Seeed Studio.
+We have two choices of IoT hardware to use for the projects depending on personal preference, programming language knowledge or preferences, learning goals, and availability. We have also provided a 'virtual hardware' version for those who don't have access to hardware or want to learn more before committing to a purchase. You can read more and find a 'shopping list' on the [hardware page](./hardware.md), including links to buy complete kits from our friends at Seeed Studio.
 
 > 💁 Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md), and [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
 
