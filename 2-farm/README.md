@@ -1,8 +1,8 @@
 # Farming with IoT
 
-As the population grows, so does the demand on agriculture. The amount of land available doesn't change, but the climate does - giving even more challenges to farmers, especially the 2 billion [subsistence farmers](https://wikipedia.org/wiki/Subsistence_agriculture) who rely on what they grow to be able to eat and feed their families. IoT can help farmers make smarter decisions on what to grow and when to harvest, increase yields, reduce the amount of manual labor, and detect and deal with pests.
+As the population grows, so does the demand for agriculture. The amount of land available doesn't change, but the climate does - giving even more challenges to farmers, especially the 2 billion [subsistence farmers](https://wikipedia.org/wiki/Subsistence_agriculture) who rely on what they grow to be able to eat and feed their families. IoT can help farmers make smarter decisions on what to grow and when to harvest, increase yields, reduce the amount of manual labor, and detect and deal with pests.
 
-In these 6 lessons you'll learn how to apply the Internet of Things to improve and automate farming.
+In these 6 lessons, you'll learn how to apply the Internet of Things to improve and automate farming.
 
 > 💁 These lessons will use some cloud resources. If you don't complete all the lessons in this project, make sure you [Clean up your project](../clean-up.md).
 
