@@ -1,12 +1,12 @@
 # Retail - using IoT to manage stock levels
 
-The last stage for feed before it reaches consumers is retail - the markets, greengrocers, supermarkets and stores that sell produce to consumers. These stores want to ensure they have produce out on shelves for consumers to see and buy.
+The last stage for a feed before it reaches consumers is retail - the markets, greengrocers, supermarkets, and stores that sell products to consumers. These stores want to ensure they have produced out on shelves for consumers to see and buy.
 
-One of the most manual, time consuming tasks in food stores, especially in large supermarkets, is making sure the shelves are stocked. Checking individual shelves to ensure any gaps are filled with produce from store rooms.
+One of the most manual, time-consuming tasks in food stores, especially in supermarkets, is making sure the shelves are stocked. Checking individual shelves to ensure any gaps are filled with produce from storerooms.
 
-IoT can help with this, using AI models running on IoT devices to count stock, using machine learning models that don't just classify images, but can detect individual objects and count them.
+IoT can help with this, using AI models running on IoT devices to count stock, using machine learning models that don't just classify images but can detect individual objects and count them.
 
-In these 2 lessons you'll learn how to train image-based AI models to count stock, and run these models on IoT devices.
+In these 2 lessons, you'll learn how to train image-based AI models to count stock and run these models on IoT devices.
 
 > 💁 These lessons will use some cloud resources. If you don't complete all the lessons in this project, make sure you [clean up your project](../clean-up.md).
 
